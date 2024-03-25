@@ -1,7 +1,6 @@
 -  Hi, I’m @j-arreola
 -  I’m now working on becoming a Data Analyst.
--  I’m currently learning SQL, RStudio, Python and am enrolled in the Microsoft Power BI Data Analyst Professional Certificate and Google Data Analytics Professional Certificate
--  programs through Coursera.
+-  I’m currently learning SQL, RStudio, Python and am enrolled in the Microsoft Power BI Data Analyst Professional Certificate and Google Data Analytics Professional Certificate program through Coursera.
 -  I’m looking to collaborate on projects that can be used as a part of my portfolio, centered on K-12 public schools in the US and supply chain management.
 -  How to reach me jp_logicus@zoho.com.
 <!---
